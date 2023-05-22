@@ -3,7 +3,7 @@ Data Structures and Algorithms implementation in Python.
 
 ### Topics covered:
 
-- [x] [Data Structures](Data-Structures)
+- [x] [Data Structures Concepts](Concepts)
     - [x] [Array](Data-Structures/array.py)
     - [x] [Stack](DSA_Training_in_Python/Concepts/Stack)
         - [x] [Stack Using Array](Concepts/Stack/stack.py)
