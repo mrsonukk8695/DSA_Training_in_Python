@@ -1,0 +1,39 @@
+Special types of tree:
+1. Heap
+2. Red-black tree
+3. B-tree
+4. Splay tree
+5. N-ary tree
+6. Trie(Radix tree)
+########################################################################################
+Operations- Search,Insertion,Deletion( Complexity)
+best case and average case =O(logn) (Same for all)
+worst case=O(N) (same for all)
+########################################################################################
+Binary tree-Array Implementation :
+    One of the most interesting properties of a binary tree
+    we can arrange all the elements of it in an array.
+    the indexes of the elements in this array can be used to find the parent or children of any node.
+    parent(r) = (r-1)/2
+    Left child = (2r+1)
+    Right Child = (2r+2)
+    Left Sibling = 
+    Right Sibling = 
+########################################################################################
+Complete Binary tree (Read it once)
+    A binary tree is called Complete binary tree when all the level of binary tree is Completely filled execpt 
+
+########################################################################################
+Binary Heap - 
+A heap is a tree-based data structure where the element with the highest or the lowest priority is always stored at the "root" of the tree.
+    Complete Binary tree + Heap
+    * Min Heap Tree 
+    * Max Heap Tree
+    Max Heap - 
+
+Application
+1. prim's algo
+2. heap
+3.
+
+Heapify

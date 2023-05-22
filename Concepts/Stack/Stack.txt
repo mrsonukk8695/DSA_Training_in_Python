@@ -1,0 +1,16 @@
+Stack
+    A Stack is a linear data structure that store items in a Last in First out way. 
+    Basic Operations:
+    1. Push - add element at top of stack
+    2. POP - remove element from the top of stack
+    3. IsEmpty - Checks the position of the top in the stack(if top==-1)(or )
+    4. IsFull - 
+    5. Peek - 
+    6. Searching - 
+
+
+Implementation of Stack in Python:
+1. List
+2. Collection.deque
+3. Queue.LIFO-Queue
+4. Singly-Linked List

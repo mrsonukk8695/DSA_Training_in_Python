@@ -1,0 +1,32 @@
+OOPS contsist of:
+1.  Class  
+2.  ojbects
+3.  Methods
+4. Properties
+
+
+Class = Classes are essentially a template to create your objects. (Inside a class the function is known as method.)
+        A class have methods and variables in a particular kind of object.
+        (class=data+function) 
+        Syntax of creating a class-
+            class <class name>:
+            #class variables
+            #constructor
+            #methods
+
+Types of constructor
+1. Parameterized Constructor.     def_name(self,v1,v2):
+2. Non-Parameterized Constructor  def_name(self):
+3. Default Constructor.           def_name():
+
+Built-in function:
+1. __doc__
+2. __init__ - pre-define constructor 
+3. 
+4. 
+5. 
+
+
+Accessing Class variables
+inside the constructor by using either self parameter or class name.
+class variable inside instance method by using either 

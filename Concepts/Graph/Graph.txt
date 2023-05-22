@@ -1,0 +1,83 @@
+GRAPH:
+    - It si a collection of node that have data and are connected to other nodes.
+    - they are mathematical structure that repersent pairwise reationship between objects. A graph is a flow structure that represent the reationship between various objects.
+    - Node - Vertex(V)
+    Edges(E)
+    - G=(V,E)
+
+Terminology:
+-Node, -Edges, -path, -closed path, -simple path, -degree of a node, -cyclic graph, -acyclic graph
+
+Node -Edge
+    V={A,B,C,D,E}
+    E{AB,AC,AE,DE,BD}
+
+#### Difference between GRAPH AND TREE ####
+* Path- It is the sequrnce/order of vertices to reach from one node to another 
+* Simple Path (Isolated path)-
+* Closed Path - If initial and the final nodes are the same, then the closed path
+* Ajacent Nodes (Edge) -
+* Directed graph - it is also referred to as a digraph, is a nodes connected by Edges, each with a direction.
+* Undirected graph-
+* Simple graph - neither loops nor parallel Edges exist is a simple graph.
+* Non-Simple graph(Complex graph) - 
+* Complete graph - a graph G=(v,E) is said to be Complete if each Vertex in the graph is adjacent to all of its vertices, i.e. there is an edge connecting any pair of vertices in the graph
+
+N(N-1)/2
+* A Complete graph of "n" vertices conatains exactly nC2 edge.
+
+
+Weighted & Non-Weighted graph
+    a Weighted graph is the one in which we associate some Weight with every edge.
+
+#### Types of  graph ####
+
+CODE OF GRAPH:
+       *class MyGraph:
+            def __init__(self,gdict=None):
+                if gdict is None:
+                    gdict={}
+                self.gdict=gdict
+                
+                
+      * class Mygraph:
+            def __init__(self,gdict=None):
+                if gdict is None:
+                    gdict={}
+                self.gdict=gdict
+    
+
+Graph Representation -
+    * Adjacency Matrix - 2
+        D array of size nxn 
+        (Advantages VS Disadvantages of Adjacency Matrix)
+    * Adjacency List- 
+        (Advantages VS Disadvantages)
+# OPERATIONS IN GRAPH:
+
+# TRAVERSAL IN GRAPH:
+                     - without getting into looping path.
+                     - depth first search
+                     - breadth first search
+
+
+
+breadth first search (BFS): - A spanning tree as final result. Spanning tree is a graph without loops
+                            - (Queue - enqueue & deque)
+                            STEPS:
+                            1. first move horizontally and visit all the nodes of the current layer. 
+                            2. Move to the next layer.
+Visitng Nodes : just like name suggests, Visitng a node means to visit or select a node.
+
+
+Depth first search (DFS) : 0. Depth first traversal or depth first search (DFS) algorithm traverses a Graph in a depth manner and uaera a stack to store the visited nodes.
+                            1. Implementation using stack and recursively
+
+Algorithms for GRAPHS:
+
+
+
+
+
+P.P.P.=
+D.D.D.=

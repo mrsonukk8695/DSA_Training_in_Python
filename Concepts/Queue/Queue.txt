@@ -1,0 +1,23 @@
+Queue- FIFO(First-in, First out)
+    A queue is a data structure that is based on the FIFO principle when adding and  removing items.
+    It have two working workspace:
+    1. enqueue(rear) [inserting perfromed from the there]
+    2. dequeue(front) [deleting perfromed from the there]
+
+    Basic Operations:
+    1. enqueue
+    2. dequeue
+    3. IsEmpty
+    4. IsFull
+    5. Peek
+
+    Types of queue:
+    1. Simple Queue
+    2. Circular Queue
+    3. Priority Queue - It's a sort of queue in which each element has a Priority value, 
+    4. deque(Dobule )
+
+    Implementation of Queue:
+        1. List
+        2. collections.deque
+        3.queue.life

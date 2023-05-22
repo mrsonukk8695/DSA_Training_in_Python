@@ -1,0 +1,19 @@
+
+
+Types of python Arguments:
+1.  Required Arguments
+2.  Default Arguments
+3.  Keyword Arguments
+4.  Aribitrary Arguments
+        In the function definition we use an asterisk (*) before parameter of calling.
+
+
+Namespaces: A Namespaces is a collection of names and the details of the ojbects referenced  
+Python Namespaces Types:
+1.      Local Namespaces
+2.      Enclosed Namespaces ()
+3.      Global Namespaces = when files closed the Global Namespaces will also be ends(runs at module level)
+4.      Built-in Namespaces = runs until the main program gets close
+
+Namespaces help us uniquely identify all the names inside a program.
+LEGB (Precdence level of the Namespaces)
