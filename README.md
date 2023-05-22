@@ -5,7 +5,7 @@ Data Structures and Algorithms implementation in Python.
 
 - [x] [Data Structures](Data-Structures)
     - [x] [Array](Data-Structures/array.py)
-    - [x] [Stack](Data-Structures/Stack)
+    - [x] [Stack](DSA_Training_in_Python/Concepts/Stack)
         - [x] [Stack Using Array](DSA_Training_in_Python/Concepts/Stack/stack.py)
         - [x] [Stack Using Linked List](Data-Structures/Stack/stack-using-linked-list.py)
     - [x] [Queue](Data-Structures/Queue)
